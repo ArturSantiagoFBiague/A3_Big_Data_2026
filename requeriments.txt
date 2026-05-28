@@ -1,0 +1,12 @@
+yfinance
+scikit-learn
+matplotlib
+tensorflow
+seaborn
+pandas
+numpy
+xgboost
+lightgbm
+ccxt
+lightgbm
+imbalanced-learn
